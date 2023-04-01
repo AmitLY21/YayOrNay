@@ -14,14 +14,20 @@ You can click the thumbs up icon to like the picture or the thumbs down icon to 
 The app will automatically load a new picture for you to vote on.</br>
 Clicking the "Liked" button will take you to the Liked page.
 
-![Main Page](insert_image_url_here)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/62396197/229291903-7d509b39-72ea-4e36-a570-5f580208943e.png" width="250">
+  <img src="https://user-images.githubusercontent.com/62396197/229291909-452ccb58-935d-42de-849f-bfa888ae0bd5.png" width="250">
+</p>
 
 ### Liked Page
 The Liked page displays all the pictures that you have liked.</br>
 You can click on each picture to copy its image URI. </br>
 The page also has a delete function to remove individual pictures, a "Delete All" button to remove all liked pictures, and an "Export All" button to export all the URIs to a file.
 
-![Liked Page](insert_image_url_here)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/62396197/229291908-a3c5828b-41ac-4d28-9d73-f42177d6a7b9.png" width="250">
+  <img src="https://user-images.githubusercontent.com/62396197/229291910-ca4ec286-e19b-4681-ae08-2a6e33cc1567.png" width="250">
+</p>
 
 ## SharedPrefManager Library
 
