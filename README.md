@@ -12,7 +12,7 @@ You can vote by clicking the 👍 thumbs up icon (like) or 👎 thumbs down icon
 The Main page displays one picture at a time.</br>
 You can click the thumbs up icon to like the picture or the thumbs down icon to dislike it.</br>
 The app will automatically load a new picture for you to vote on.</br>
-Clicking the "Liked" button will take you to the Liked page.
+Clicking the "List" icon button will take you to the Liked page.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/62396197/229291903-7d509b39-72ea-4e36-a570-5f580208943e.png" width="250">
